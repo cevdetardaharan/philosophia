@@ -1,0 +1,21 @@
+---
+import { languages } from "../i18n/ui";
+---
+
+<nav>
+  <ul>
+    {
+      Object.entries(languages).map(([lang, label]) => (
+        <li>
+          <a href={`/philosophia/${lang}/`}>{label}</a>
+        </li>
+      ))
+    }
+  </ul>
+</nav>
+
+<style>
+  ul {
+    list-style-type: circle;
+  }
+</style>

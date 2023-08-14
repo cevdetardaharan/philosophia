@@ -1,0 +1,14 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro"
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<BaseLayout title={t('title')} description="EN">
+  <article>
+  <h1>{t('title')}</h1>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, minus qui modi ex accusantium, itaque vero eveniet possimus eos quia culpa alias excepturi amet dolores pariatur, similique accusamus fugiat! Enim.</p>
+</article>
+</BaseLayout>

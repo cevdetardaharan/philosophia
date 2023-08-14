@@ -1,0 +1,123 @@
+---
+import PhilosopherLayout from "../../../layouts/PhilosopherLayout.astro";
+import { getLangFromUrl, useTranslations } from "../../../i18n/utils";
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+
+export async function getStaticPaths() {
+  const pages = await getCollection("philosopher");
+
+  const paths = pages.map((page) => {
+    const [lang, ...slug] = page.slug.split("/");
+    return { params: { lang, slug: slug.join("/") || undefined }, props: page };
+  });
+
+  return paths;
+}
+
+const page = Astro.props;
+
+const language = getLangFromUrl(Astro.url);
+const t = useTranslations(language);
+---
+
+<PhilosopherLayout
+  title={page.data.name}
+  description={page.data.bio}
+  image={page.data.image.src}
+>
+  <header class="flow">
+    <h1>{page.data.name}</h1>
+    <Image src={page.data.image} alt="" width={600}/>
+    <p>{page.data.bio}</p>
+  </header>
+
+  <h2>{t("philosopher.nutshell")}</h2>
+  <p>{t("philosopher.introduction")}: {page.data.nutshell.introduction}</p>
+
+  <h3>{t("philosopher.concepts")}</h3>
+  <dl>
+    {
+      page.data.nutshell.concepts.map((concept: {
+        title: string,
+        description: string,
+      }) => (
+        <>
+          <dt>{concept.title}</dt>
+          <dd>{concept.description}</dd>
+        </>
+      ))
+    }
+  </dl>
+  <h3>{t("philosopher.quotes")}</h3>
+  <ul>
+    {
+      page.data.nutshell.quotes.map((quote: string) =>
+        <li><q>{quote}</q></li>
+      )
+    }
+  </ul>
+
+  <h2>{t("philosopher.life")}</h2>
+  <p>{t("philosopher.early_life")}: {page.data.life.early_life}</p>
+  <h3>{t("philosopher.works")}</h3>
+  <ul>
+    {
+      page.data.life.works.map((work: string) => 
+        <li>{work}</li>
+      )
+    }
+  </ul>
+  <p>{t("philosopher.later_life")}: {page.data.life.later_life}</p>
+
+  <h2>{t("philosopher.ideas.title")}</h2>
+  {
+    page.data.ideas.map((idea: {
+      title: string,
+      explanation: string,
+      impact: string,
+      funfact: string,
+    }) => (
+      <>
+        <h3>{idea.title}</h3>
+        <ul>
+          <li>
+            {t("philosopher.ideas.explanation")}: {idea.explanation}
+          </li>
+          <li>
+            {t("philosopher.ideas.impact")}: {idea.impact}
+          </li>
+          <li>
+            {t("philosopher.ideas.funfact")}: {idea.funfact}
+          </li>
+        </ul>
+      </>
+    ))
+  }
+
+  <h2>{t("philosopher.legacy.title")}</h2>
+  <p>{t("philosopher.overview")}: {page.data.legacy.overview}</p>
+  <p>{t("philosopher.legacy.followers")}: {page.data.legacy.followers}</p>
+  <p>{t("philosopher.legacy.pop")}: {page.data.legacy.pop}</p>
+
+  <h2>{t("philosopher.criticism.title")}</h2>
+  <p>{t("philosopher.overview")}: {page.data.criticism.overview}</p>
+  <p>{t("philosopher.criticism.critiques")}: {page.data.criticism.critiques}</p>
+  <p>{t("philosopher.criticism.response")}: {page.data.criticism.response}</p>
+
+  <footer class="flow">
+    <h2>{t("philosopher.resources.title")}</h2>
+    <h3>{t("philosopher.resources.reading")}</h3>
+    <ul>
+      {page.data.resources.reading.map((reading: string) => <li>{reading}</li>)}
+    </ul>
+    <h3>{t("philosopher.resources.online")}</h3>
+    <ul>
+      {page.data.resources.online.map((online: string) => <li>{online}</li>)}
+    </ul>
+    <h3>{t("philosopher.resources.academia")}</h3>
+    <ul>
+      {page.data.resources.academia.map((academia: string) => <li>{academia}</li>)}
+    </ul>
+  </footer>
+</PhilosopherLayout>

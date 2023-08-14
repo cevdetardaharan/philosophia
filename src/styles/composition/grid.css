@@ -1,0 +1,13 @@
+.grid {
+  --min: 10rem;
+  --space: 1rem;
+  align-content: start;
+  display: grid;
+  gap: var(--space);
+  grid-template-columns: 100%;
+}
+
+/* needs javascript for when the container size is wider than the grid width */
+.grid.aboveMin {
+  grid-template-columns: repeat(auto-fit, minmax(var(--min), 1fr));
+}

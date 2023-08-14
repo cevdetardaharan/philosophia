@@ -1,0 +1,42 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Image from "astro/components/Image.astro";
+import { getLangFromUrl, useTranslations } from "../../../i18n/utils";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const pages = await getCollection("philosopher");
+
+  const paths = pages.map((page) => {
+    const [lang, ...slug] = page.slug.split("/");
+    return { params: { lang }, props: page };
+  });
+
+  return paths;
+}
+
+const page = Astro.props;
+
+const philosophers = await getCollection("philosopher", ({id}) => {
+  return id.startsWith(`${Astro.params.lang}/`);
+});
+
+const language = getLangFromUrl(Astro.url);
+const t = useTranslations(language);
+---
+
+<BaseLayout>
+  <div class="grid minAbove">
+  {
+    philosophers.map((philosopher) =>(
+    <a href={`/philosophia/${Astro.params.lang}/philosopher/${philosopher.slug.slice(3)}`}>
+      <div class="box">
+        <h2>{philosopher.data.name}</h2>
+        <Image src={philosopher.data.image} alt="" width={240} />
+      </div>
+    </a>
+    ))  
+  }
+  </div>
+</BaseLayout>
+
