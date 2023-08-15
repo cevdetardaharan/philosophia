@@ -1,60 +1,60 @@
 ---
-name: Plato
+name: Platon
 image: '~/assets/plato.webp'
-bio: Plato was a Greek philosopher born in Athens around 428 BCE. He was a student of Socrates and one of the most important figures in Western philosophy. Plato's ideas have had a profound impact on politics, ethics, metaphysics, and epistemology.
+bio: Platon était un philosophe grec né à Athènes vers 428 av. J.-C. Il fut l'élève de Socrate et l'une des figures les plus importantes de la philosophie occidentale. Les idées de Platon ont eu un impact profond sur la politique, l'éthique, la métaphysique et l'épistémologie.
 
 nutshell:
-  introduction: Plato's philosophy focused on the nature of reality, knowledge, and the ideal society. He believed in the existence of a higher realm of abstract Forms or Ideas, which are the true and eternal essences of things.
+  introduction: La philosophie de Platon portait sur la nature de la réalité, de la connaissance et de la société idéale. Il croyait en l'existence d'une sphère supérieure de Formes ou d'Idées abstraites, qui sont les essences vraies et éternelles des choses.
   concepts:
-    - title: Platonic Realism
-      description: The belief that the world we experience through our senses is only an imitation of the true, eternal world of Forms.
-    - title: Allegory of the Cave
-      description: An allegory describing the process of enlightenment, where the prisoner is freed from the cave and comes to understand the true nature of reality.
-    - title: Theory of Forms
-      description: The idea that there are abstract, eternal forms that serve as the ultimate reality underlying the physical world.'
+    - title: Réalisme platonicien
+      description: La croyance selon laquelle le monde que nous percevons à travers nos sens n'est qu'une imitation du véritable monde éternel des Formes.
+    - title: Allégorie de la caverne
+      description: Une allégorie décrivant le processus d'illumination, où le prisonnier est libéré de la caverne et parvient à comprendre la vraie nature de la réalité.
+    - title: Théorie des Formes
+      description: L'idée qu'il existe des Formes abstraites et éternelles qui servent de réalité ultime sous-jacente au monde physique.
   quotes:
-    - "The only true wisdom is in knowing you know nothing."
-    - "The highest morality is not to resist evil, but to overcome evil with good."
-    - "The price of apathy towards public affairs is to be ruled by evil men."
+    - "La seule vraie sagesse est de savoir que l'on ne sait rien."
+    - "La plus haute moralité consiste non pas à résister au mal, mais à vaincre le mal par le bien."
+    - "Le prix de l'indifférence envers les affaires publiques est d'être gouverné par des hommes mauvais."
 
 life:
-  early_life: Plato was born into an aristocratic Athenian family. His father Ariston was said to have descended from the early kings of Athens. Plato grew up during the time of Pericles, a period of great political and cultural prosperity in Athens.
+  early_life: Platon est né dans une famille aristocratique athénienne. Son père, Ariston, aurait descendu des premiers rois d'Athènes. Platon a grandi à l'époque de Périclès, une période de grande prospérité politique et culturelle à Athènes.
   works:
-    - '"The Republic": Platos most famous work, in which he explores the nature of justice and the ideal society.'
-    - '"Symposium": A dialogue that examines the concept of love and the nature of beauty.'
-    - '"Apology": An account of the trial and execution of Socrates, Platos mentor.'
-  later_life: After Socrates' death, Plato traveled extensively throughout the Mediterranean, including visits to Egypt and Italy. He eventually returned to Athens, where he founded the Academy, one of the earliest institutions of higher learning in the Western world.
+    - "La République: L'œuvre la plus célèbre de Platon, dans laquelle il explore la nature de la justice et de la société idéale."
+    - "Symposium: Un dialogue qui examine le concept de l'amour et la nature de la beauté."
+    - "Apologie: Un récit du procès et de l'exécution de Socrate, le mentor de Platon."
+  later_life: Après la mort de Socrate, Platon a beaucoup voyagé à travers la Méditerranée, y compris des visites en Égypte et en Italie. Il est finalement revenu à Athènes, où il a fondé l'Académie, l'une des premières institutions d'enseignement supérieur au monde occidental.
 
 ideas:
-  - title: Platonic Realism
-    explanation: Plato believed that the physical world we experience through our senses is only an imitation of the true, eternal world of Forms. This means that everything we see, hear, touch, taste, and smell is just a copy of a perfect, abstract form. For example, there is a Form of Beauty, a Form of Goodness, a Form of Justice, and so on.
-    impact: Platonic Realism has had a lasting impact on Western philosophy, influencing thinkers such as Aristotle and St. Augustine. It also laid the groundwork for the development of Christian theology and the notion of a divine creator.
-    funfact: Plato's theory of forms has been used to justify all sorts of strange ideas, like the notion that there is a perfect, eternal form of pizza out there somewhere!
-  - title: Allegory of the Cave
-    explanation: In the Allegory of the Cave, Plato describes a group of prisoners who have lived their entire lives chained inside a dark cave, unable to see anything beyond shadows on the wall in front of them. One prisoner manages to escape and sees the outside world for the first time, realizing that the shadows were only imitations of true reality.
-    impact: The Allegory of the Cave has become a classic metaphor for the journey of enlightenment and the pursuit of knowledge. It has inspired countless artists, writers, and philosophers throughout history.
-    funfact: Did you know that the Allegory of the Cave has been reinterpreted in many different ways? Some people see it as a symbol for spiritual awakening, while others interpret it as a commentary on the dangers of technology addiction!
+  - title: Réalisme platonicien
+    explanation: Platon croyait que le monde physique que nous percevons à travers nos sens n'était qu'une imitation du véritable monde éternel des Formes. Cela signifie que tout ce que nous voyons, entendons, touchons, goûtons et sentons n'est qu'une copie d'une forme abstraite parfaite. Par exemple, il existe une Forme de Beauté, une Forme de Bonté, une Forme de Justice, et ainsi de suite.
+    impact: Le réalisme platonicien a eu un impact durable sur la philosophie occidentale, influençant des penseurs tels qu'Aristote et Saint Augustin. Il a également posé les bases du développement de la théologie chrétienne et de la notion d'un créateur divin.
+    funfact: La théorie des Formes de Platon a été utilisée pour justifier toutes sortes d'idées étranges, comme l'idée qu'il existe quelque part une forme parfaite et éternelle de pizza !
+  - title: Allégorie de la caverne
+    explanation: Dans l'allégorie de la caverne, Platon décrit un groupe de prisonniers ayant passé toute leur vie enchaînés à l'intérieur d'une sombre caverne, incapables de voir autre chose que des ombres projetées sur le mur devant eux. L'un des prisonniers parvient à s'échapper et découvre le monde extérieur pour la première fois, réalisant que les ombres n'étaient que des imitations de la vraie réalité.
+    impact: L'allégorie de la caverne est devenue une métaphore classique pour le voyage vers l'illumination et la quête de connaissance. Elle a inspiré d'innombrables artistes, écrivains et philosophes tout au long de l'histoire.
+    funfact: Saviez-vous que l'allégorie de la caverne a été réinterprétée de nombreuses manières différentes ? Certains la voient comme un symbole d'éveil spirituel, tandis que d'autres l'interprètent comme un commentaire sur les dangers de la dépendance à la technologie !
 
 legacy:
-  overview: Plato's ideas have had a profound impact on Western philosophy, shaping the way we think about ethics, politics, and metaphysics. His theories continue to be studied and debated by scholars today.
-  followers: Aristotle, St. Augustine, Immanuel Kant, Friedrich Nietzsche, and Martin Heidegger are just a few of the many philosophers who have been influenced by Plato's ideas.
-  pop: Plato's theories have popped up in all sorts of unexpected places, from sci-fi novels like "The Matrix" to TV shows like "Rick and Morty." Even Beyoncé has been known to reference Plato's Symposium in her song lyrics!
+  overview: Les idées de Platon ont eu un impact profond sur la philosophie occidentale, façonnant notre façon de penser l'éthique, la politique et la métaphysique. Ses théories continuent d'être étudiées et débattues par les chercheurs d'aujourd'hui.
+  followers: Aristote, Saint Augustin, Emmanuel Kant, Friedrich Nietzsche et Martin Heidegger ne sont que quelques-uns des nombreux philosophes qui ont été influencés par les idées de Platon.
+  pop: Les théories de Platon ont fait surface dans toutes sortes d'endroits inattendus, des romans de science-fiction comme "Matrix" aux émissions de télévision comme "Rick et Morty". Même Beyoncé a été connue pour faire référence au "Symposium" de Platon dans ses paroles de chansons !
 
 criticism:
-  overview: While Plato's ideas have had a lasting impact on Western philosophy, they have not gone unchallenged. Many critics argue that his theories are too abstract and disconnected from the real world. Others accuse him of promoting a dangerous kind of elitism.
-  critiques: Aristotle, Plato's most famous student, disagreed with his teacher's theory of forms, arguing that the world we experience through our senses is real and knowable. Other critics, like Karl Popper, have accused Plato of advocating for totalitarianism and suppressing individual freedom.
-  response: Plato's response to criticism often took the form of further dialogues and writings, in which he refined and defended his ideas against his opponents. In his later works, he began to emphasize the importance of individual moral character and the role of education in creating a just society.
+  overview: Bien que les idées de Platon aient eu un impact durable sur la philosophie occidentale, elles n'ont pas échappé aux critiques. De nombreux critiques soutiennent que ses théories sont trop abstraites et déconnectées du monde réel. D'autres l'accusent de promouvoir une forme dangereuse d'élitisme.
+  critiques: Aristote, le plus célèbre élève de Platon, était en désaccord avec la théorie des Formes de son professeur, arguant que le monde que nous percevons à travers nos sens est réel et connaissable. D'autres critiques, comme Karl Popper, ont accusé Platon de soutenir le totalitarisme et de réprimer la liberté individuelle.
+  response: La réponse de Platon aux critiques prenait souvent la forme de dialogues et d'écrits ultérieurs, dans lesquels il affinait et défendait ses idées contre ses opposants. Dans ses œuvres ultérieures, il a commencé à souligner l'importance du caractère moral individuel et du rôle de l'éducation dans la création d'une société juste.
 
 resources:
   reading:
-    - "The Republic"
+    - "La République"
     - "Symposium"
-    - "Apology"
-    - "Phaedo"
+    - "Apologie"
+    - "Phédon"
   online:
-    - Stanford Encyclopedia of Philosophy entry on Plato (plato.stanford.edu)
-    - International Association for Plato Studies website (iaps.org)
+    - Article de la Stanford Encyclopedia of Philosophy sur Platon (plato.stanford.edu)
+    - Site web de l'International Association for Plato Studies (iaps.org)
   academia:
-    - Journal of the History of Philosophy
+    - Revue de l'histoire de la philosophie
     - Oxford Studies in Ancient Philosophy
 ---

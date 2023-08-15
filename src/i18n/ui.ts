@@ -6,6 +6,8 @@ export const languages = {
   tr: "Türkçe",
 }
 
+export const langs = ['en', 'de', 'fr', 'ku', 'tr']
+
 export const defaultLang = 'en';
 
 export const ui = {

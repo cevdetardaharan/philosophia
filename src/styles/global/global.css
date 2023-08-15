@@ -40,3 +40,12 @@ a {
 a:hover {
   text-decoration-line: none;
 }
+
+::selection {
+  background-color: var(--accent);
+  color: var(--background);
+}
+
+ul:not(nav ul)>*+* {
+  margin-top: .3em;
+}

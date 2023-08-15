@@ -17,6 +17,10 @@ dd {
   margin: 0;
 }
 
+header, footer {
+  padding: 10px;
+}
+
 ul[role='list'] {
   list-style: none;
 }

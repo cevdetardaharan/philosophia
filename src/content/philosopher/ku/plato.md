@@ -1,60 +1,61 @@
 ---
-name: Plato
+name: Platon
 image: '~/assets/plato.webp'
-bio: Plato was a Greek philosopher born in Athens around 428 BCE. He was a student of Socrates and one of the most important figures in Western philosophy. Plato's ideas have had a profound impact on politics, ethics, metaphysics, and epistemology.
+bio: Platon, sala M.Ö. 428'an de li Atîna ji dayik bûye û wekî fîlozofekî yekemîn a Yunanê hatiye dinyayê. Platon fikrên wî di siyasetê, etîkê, metafizîkê û epîstemolojiyê de xebat kirine û yek ji rêberên girîng ên fîlozofîya Rojavayê dinya ye.
 
 nutshell:
-  introduction: Plato's philosophy focused on the nature of reality, knowledge, and the ideal society. He believed in the existence of a higher realm of abstract Forms or Ideas, which are the true and eternal essences of things.
+  introduction: Fîlosofiya Platon a têkoşîna rastînê, zanînê û civakê ideal de cih girtiye. Platon bi rastiya dinyaya Form û Aştiyan a bihevre ya Forman ya hevpeyvîn dike ku hun in, wekî wêne û bêtikan, yek di seranserê rastiya dijîtal de, herweha jiyan.
+
   concepts:
-    - title: Platonic Realism
-      description: The belief that the world we experience through our senses is only an imitation of the true, eternal world of Forms.
-    - title: Allegory of the Cave
-      description: An allegory describing the process of enlightenment, where the prisoner is freed from the cave and comes to understand the true nature of reality.
-    - title: Theory of Forms
-      description: The idea that there are abstract, eternal forms that serve as the ultimate reality underlying the physical world.'
+    - title: Realîzma Platonîk
+      description: Bawerî ku cîhanê em li ser duyemên xwe bibînin tenê nîşana kopî ye ya herêmê ya Formên xwe û serkeftina wan ya bi herî dawî.
+    - title: Agorîya Berxweya
+      description: Agorîya ku di rêya pêş de birûzgehî dibe û dest bi fahmkirina rastiyê dike, ku qîzma ji ber gêjên li perê pêşîya wan dimeşîne.
+    - title: Teoriya Forman
+      description: Gundêt ku bûyer bi serkirde, bingeha gerçekî a cîhanê ye ku li ser cîhanê fizîkî hewce ye, têgihîştina formên abstrakt û seranser li cîhanê ya dîrokî têdikoşe.
   quotes:
-    - "The only true wisdom is in knowing you know nothing."
-    - "The highest morality is not to resist evil, but to overcome evil with good."
-    - "The price of apathy towards public affairs is to be ruled by evil men."
+    - "Ji bo xwe nas kirin, dînên yekem rastîn e ku hûn tiştek nabînin."
+    - "Ji bo ehlîyeta bilind, ne dijminê bûnê ye, lê bi şerê başê bûna dil."
+    - "Navê berûyî li ser tiştên deveran yekser dikin, pêşîya bav û kalên şer in."
 
 life:
-  early_life: Plato was born into an aristocratic Athenian family. His father Ariston was said to have descended from the early kings of Athens. Plato grew up during the time of Pericles, a period of great political and cultural prosperity in Athens.
+  early_life: Platon li malbata xweser a Atîna hate dinyayê. Bo destpêka Atîna bajarê malbatê, xwedî ji kovaran bi dîrokî dikir. Platon di dema Periklesê de, demeke piştevanîya siyasî û çandî ya baş li Atîna ya pir dijwar derbas kir.
   works:
-    - '"The Republic": Platos most famous work, in which he explores the nature of justice and the ideal society.'
-    - '"Symposium": A dialogue that examines the concept of love and the nature of beauty.'
-    - '"Apology": An account of the trial and execution of Socrates, Platos mentor.'
-  later_life: After Socrates' death, Plato traveled extensively throughout the Mediterranean, including visits to Egypt and Italy. He eventually returned to Athens, where he founded the Academy, one of the earliest institutions of higher learning in the Western world.
+    - '"Komara Atîna": Pirtûka en zanista wekî li ser xweşî û civaka ideal de dikare werin hesibandin.'
+    - '"Simpozyûm": Diyaloqek ku naveroka hevpeyvînê û xuyîn li ser naveroka xwe de dikare werin hesibandin.'
+    - '"Pêşnîyar": Agahdariya girtin û birîndanê ya Sokratê, pir pirtûkvanên Platonê.'
+  later_life: Piştî mirina Sokratê, Platon bi navbendî li ser Kurdewarîya Mêditerraneyê re gundên cuda çêkir, wekî gelek bi Ecyûpt û Îtalîya ve. Niha jî ser bestên xwe de maye, ku yek ji gurên hunerî yên nûjen ên li seranserî cîhanê ye.
 
 ideas:
-  - title: Platonic Realism
-    explanation: Plato believed that the physical world we experience through our senses is only an imitation of the true, eternal world of Forms. This means that everything we see, hear, touch, taste, and smell is just a copy of a perfect, abstract form. For example, there is a Form of Beauty, a Form of Goodness, a Form of Justice, and so on.
-    impact: Platonic Realism has had a lasting impact on Western philosophy, influencing thinkers such as Aristotle and St. Augustine. It also laid the groundwork for the development of Christian theology and the notion of a divine creator.
-    funfact: Plato's theory of forms has been used to justify all sorts of strange ideas, like the notion that there is a perfect, eternal form of pizza out there somewhere!
-  - title: Allegory of the Cave
-    explanation: In the Allegory of the Cave, Plato describes a group of prisoners who have lived their entire lives chained inside a dark cave, unable to see anything beyond shadows on the wall in front of them. One prisoner manages to escape and sees the outside world for the first time, realizing that the shadows were only imitations of true reality.
-    impact: The Allegory of the Cave has become a classic metaphor for the journey of enlightenment and the pursuit of knowledge. It has inspired countless artists, writers, and philosophers throughout history.
-    funfact: Did you know that the Allegory of the Cave has been reinterpreted in many different ways? Some people see it as a symbol for spiritual awakening, while others interpret it as a commentary on the dangers of technology addiction!
+  - title: Realîzma Platonîk
+    explanation: Platon dibîne ku cîhanê fizîkî ku em li ser duyemên xwe bibînin tenê nîşana çareseriya serkeftî ya Formên abstrakt e. Ev bi awayekî vekirî tê dîtin ku hemû tişt ku em dibînin, dişînin, distekin, ronînin û çil dikin tenê nusxeyek ji şêwaza aborên veguhêztir e. Mesela, heye Forma Xweşiyê, Forma Xweşiyê, Forma Birûmetiyê, û hwd.
+    impact: Realîzma Platonîk desthilatdarî bi fîlozofîya Rojavayê dinya re kirîye û fikirandina fikirvanên wekî Aristotel û Seîd Augustinus kirîye. Herweha ew hewceyî afirandina teolojiya Hristiyan û hêjayînê ya nûjen pêşkêş dike.
+    funfact: Teoriya Formên Platonê ji bo pêkanîna hemû cureyan a bêbextê, wekî fikrên ku hejmarek ji wan fikran dibînin, mesela fikra ku hûn dikarin li her deverek malperê veguherînin!
+  - title: Agorîya Berxweya
+    explanation: Li Agorîya Berxweya, Platon birûzgehî jiyanek giyanî û diçûna zanistê de ji rê digire. Di Agorîya Berxweya de Platon dibêje ku komî jiyanê xwe di birûzkirina rastiyê de dike û jiyanê qet nakeve naskirinên di cih de rastiyê de.
+    impact: Agorîya Berxweya bûye metafora klasîk ji bo çanda ronakbîr û rêzikên agirbestên jiyanî yên seranşîpê dibûye. Di heman demê de hunermendên mezin, nivîskar û fîlozofan bi dawî bûne.
+    funfact: Dizanin ku Agorîya Berxweya bi demên cuda cuda hatiye nirxandin? Hin kesên wê bi wekdara bilindkirina rojiyê dike, herweha hinek wê wiha şopdike ku wê dema kêmpê bi dest xwe dide, her çiqas wê ew naskirin jî nabe rastiyê!
 
 legacy:
-  overview: Plato's ideas have had a profound impact on Western philosophy, shaping the way we think about ethics, politics, and metaphysics. His theories continue to be studied and debated by scholars today.
-  followers: Aristotle, St. Augustine, Immanuel Kant, Friedrich Nietzsche, and Martin Heidegger are just a few of the many philosophers who have been influenced by Plato's ideas.
-  pop: Plato's theories have popped up in all sorts of unexpected places, from sci-fi novels like "The Matrix" to TV shows like "Rick and Morty." Even Beyoncé has been known to reference Plato's Symposium in her song lyrics!
+  overview: Fikrên Platon di fîlozofîya Rojavayê dinya de hin bandor derxistine û awayê meşandina etîk, siyaset û metafizîkê xebat kirine. Teoriyên wî ji aliyê cûdahî û nivîskîran ve têne xwendin û dîrokîkirin.
+  followers: Aristoteles, Seîd Augustinus, Immanuel Kant, Friedrich Nietzsche û Martin Heidegger ji navbenda gelek fîlozofan re bi fikrên Platon re hatine dûrxistin. Teoriyên Platon jî li cîhanê hemî derfetan li dar dixin, ji romanên çandî wekî "Matrix" heta dîrokbûnê de li ser TV şowan jî wekî "Rick û Morty" hatine bikaranîn. Beyoncé jî destnivîska "Symposium" a Platonê di lirîka strana xwe de bi kar aniye!
+  pop: Fikrên Platon di xebat û çandina cîhanê de têne lîstikvan û li cîhanê wekî "The Matrix" a romanên çandî û TV şowanên "Rick û Morty" de cihê xwe girtine. Li seranserê cîhanê, heta di lirîkên stranên Beyoncé de jî bêhtir fikrên Platon têne danîn!
 
 criticism:
-  overview: While Plato's ideas have had a lasting impact on Western philosophy, they have not gone unchallenged. Many critics argue that his theories are too abstract and disconnected from the real world. Others accuse him of promoting a dangerous kind of elitism.
-  critiques: Aristotle, Plato's most famous student, disagreed with his teacher's theory of forms, arguing that the world we experience through our senses is real and knowable. Other critics, like Karl Popper, have accused Plato of advocating for totalitarianism and suppressing individual freedom.
-  response: Plato's response to criticism often took the form of further dialogues and writings, in which he refined and defended his ideas against his opponents. In his later works, he began to emphasize the importance of individual moral character and the role of education in creating a just society.
+  overview: Wê demê ku fikrên Platon bi bandora xwe di fîlozofîya Rojavayê dinya de, wênebûna desthilatdarî nayê dîtin. Gelek kritîkvan herweha dibêjin ku teoriyên wî zêdebûnê ji xewnê deryayî û cîhanê re dinakê ye. Ji ber vê yekê, hêjayî tespîtkirina awayekî bêtir firasetî dike.
+  critiques: Aristoteles, şagerê pir navdar a Platonê, bi teoriya Formên wî bêrî bi wî zêdebûnê. Herwiha kritîkvan din Platon bi xweparastinê re dixe û dibêje ku ew totalitarîzmê têk didin û azadiya indivîdî dest nake. Şêwazên din ên kritîkê, wekî Karl Popper, Platonê li ser desthilatdarî bi wezaretekî bêbextî û astengiya azadiya yekgirtî dibînin.
+  response: Platon destpêka wê yê çewtîyê bi awayekî pêşî bi çêkirina berhevokên xwe û nivîsandinan, li seranser de biryara xwe birêve dixe. Di eserên xwe yên piştre, ew dest bi nirxandina karaktera ahlakî ya indivîdî û rola perwerdekirinê di afirandinê de dikin.
 
 resources:
   reading:
-    - "The Republic"
-    - "Symposium"
-    - "Apology"
-    - "Phaedo"
+    - "Komara Atîna"
+    - "Simpozyûm"
+    - "Pêşnîyar"
+    - "Phaidon"
   online:
-    - Stanford Encyclopedia of Philosophy entry on Plato (plato.stanford.edu)
-    - International Association for Plato Studies website (iaps.org)
+    - Gotara Encûmena Stanford a Fîlozofîyê ya li ser Platon (plato.stanford.edu)
+    - Malpera Enstîtuya Navendî ya Lêkolîna Platon (iaps.org)
   academia:
-    - Journal of the History of Philosophy
-    - Oxford Studies in Ancient Philosophy
+    - Pirtûka Dîroka Fîlozofî (Journal of the History of Philosophy)
+    - Wêjeya Dawîn a Fîlozofiya Antîk (Oxford Studies in Ancient Philosophy)
 ---

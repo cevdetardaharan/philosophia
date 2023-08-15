@@ -4,8 +4,7 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   compressHTML: true,
   experimental: {
-    assets: true,
-    viewTransitions: true,
+    assets: true
   },
   image: {
     service: sharpImageService()

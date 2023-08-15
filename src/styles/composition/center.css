@@ -1,4 +1,4 @@
-header, main, footer {
+main {
   box-sizing: content-box;
   max-width: 60ch;
   margin-left: auto;

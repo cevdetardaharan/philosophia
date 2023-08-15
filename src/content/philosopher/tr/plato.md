@@ -1,60 +1,60 @@
 ---
-name: Plato
+name: Platon
 image: '~/assets/plato.webp'
-bio: Plato was a Greek philosopher born in Athens around 428 BCE. He was a student of Socrates and one of the most important figures in Western philosophy. Plato's ideas have had a profound impact on politics, ethics, metaphysics, and epistemology.
+bio: Platon, M.Ö. 428 civarında Atina'da doğmuş bir Yunan filozofuydu. Sokrat'ın öğrencisi olan ve Batı felsefesinin en önemli figürlerinden biri olan Platon'un fikirleri, siyaset, etik, metafizik ve epistemoloji alanlarında derin etkiler yaratmıştır.
 
 nutshell:
-  introduction: Plato's philosophy focused on the nature of reality, knowledge, and the ideal society. He believed in the existence of a higher realm of abstract Forms or Ideas, which are the true and eternal essences of things.
+  introduction: Platon'un felsefesi, gerçekliğin, bilginin ve ideal toplumun doğasına odaklanıyordu. Platon, gerçek ve sonsuz varlık olan soyut Formlar ya da İdealar dünyasının varlığına inanıyordu.
   concepts:
-    - title: Platonic Realism
-      description: The belief that the world we experience through our senses is only an imitation of the true, eternal world of Forms.
-    - title: Allegory of the Cave
-      description: An allegory describing the process of enlightenment, where the prisoner is freed from the cave and comes to understand the true nature of reality.
-    - title: Theory of Forms
-      description: The idea that there are abstract, eternal forms that serve as the ultimate reality underlying the physical world.'
+    - title: Platonik Gerçekçilik
+      description: Duyularımız aracılığıyla deneyimlediğimiz dünya, yalnızca Formlar dünyasının gerçek ve sonsuz yansımasıdır.
+    - title: Mağara Alegorisi
+      description: Bir mahkumun mağaradan kurtularak gerçekliğin gerçek doğasını anlamasını anlatan bir alegori.
+    - title: İdeal Teorisi
+      description: Varolanın ötesinde fiziksel dünyanın temel gerçekliğini oluşturan soyut ve sonsuz formların varlığına dair fikir.
   quotes:
-    - "The only true wisdom is in knowing you know nothing."
-    - "The highest morality is not to resist evil, but to overcome evil with good."
-    - "The price of apathy towards public affairs is to be ruled by evil men."
+    - "Tek gerçek bilgelik, hiçbir şey bilmediğini bilmektir."
+    - "En yüksek ahlak, kötülüğe direnmek değil, kötülüğü iyilikle yenmektir."
+    - "Kamu işlerine duyarsızlık bedeli, kötü insanlar tarafından yönetilmektir."
 
 life:
-  early_life: Plato was born into an aristocratic Athenian family. His father Ariston was said to have descended from the early kings of Athens. Plato grew up during the time of Pericles, a period of great political and cultural prosperity in Athens.
+  early_life: Platon aristokrat bir Atinalı ailesinde doğdu. Babası Ariston, Atina'nın erken kralarından birinin soyundan geldiği söylenirdi. Platon, Atina'da büyük siyasi ve kültürel refahın yaşandığı Perikles döneminde büyüdü.
   works:
-    - '"The Republic": Platos most famous work, in which he explores the nature of justice and the ideal society.'
-    - '"Symposium": A dialogue that examines the concept of love and the nature of beauty.'
-    - '"Apology": An account of the trial and execution of Socrates, Platos mentor.'
-  later_life: After Socrates' death, Plato traveled extensively throughout the Mediterranean, including visits to Egypt and Italy. He eventually returned to Athens, where he founded the Academy, one of the earliest institutions of higher learning in the Western world.
+    - "Devlet : Platon'un en ünlü eseri, adaletin ve ideal toplumun doğasını incelediği eser."
+    - "Symposium : Aşk kavramını ve güzelliğin doğasını inceleyen bir diyalog."
+    - "Sokratesin Savunması : Sokrat'ın yargılanması ve idamının anlatıldığı eser."
+  later_life: Sokrat'ın ölümünden sonra Platon, Mısır ve İtalya gibi yerleri ziyaret ederek Akdeniz çevresinde geniş çaplı seyahatler yaptı. Sonunda Atina'ya dönerek Batı dünyasının en eski yüksek öğrenim kurumlarından biri olan Akademi'yi kurdu.
 
 ideas:
-  - title: Platonic Realism
-    explanation: Plato believed that the physical world we experience through our senses is only an imitation of the true, eternal world of Forms. This means that everything we see, hear, touch, taste, and smell is just a copy of a perfect, abstract form. For example, there is a Form of Beauty, a Form of Goodness, a Form of Justice, and so on.
-    impact: Platonic Realism has had a lasting impact on Western philosophy, influencing thinkers such as Aristotle and St. Augustine. It also laid the groundwork for the development of Christian theology and the notion of a divine creator.
-    funfact: Plato's theory of forms has been used to justify all sorts of strange ideas, like the notion that there is a perfect, eternal form of pizza out there somewhere!
-  - title: Allegory of the Cave
-    explanation: In the Allegory of the Cave, Plato describes a group of prisoners who have lived their entire lives chained inside a dark cave, unable to see anything beyond shadows on the wall in front of them. One prisoner manages to escape and sees the outside world for the first time, realizing that the shadows were only imitations of true reality.
-    impact: The Allegory of the Cave has become a classic metaphor for the journey of enlightenment and the pursuit of knowledge. It has inspired countless artists, writers, and philosophers throughout history.
-    funfact: Did you know that the Allegory of the Cave has been reinterpreted in many different ways? Some people see it as a symbol for spiritual awakening, while others interpret it as a commentary on the dangers of technology addiction!
+  - title: Platonik Gerçekçilik
+    explanation: Platon, duyu organlarımız aracılığıyla deneyimlediğimiz fiziksel dünyanın, gerçek ve sonsuz Formlar dünyasının yalnızca bir yansıması olduğuna inanıyordu. Bu, gördüğümüz, işittiğimiz, dokunduğumuz, tattığımız ve kokladığımız her şeyin mükemmel soyut bir forma bir kopyası olduğu anlamına gelir. Örneğin, Güzellik Formu, İyilik Formu, Adalet Formu gibi formlar bulunur.
+    impact: Platonik Gerçekçilik, Batı felsefesine derin etkiler bırakmış, Aristoteles ve Aziz Augustinus gibi düşünürleri etkilemiştir. Aynı zamanda Hristiyan teolojisinin gelişimi ve ilahi bir yaratıcı kavramının temellerini atmıştır.
+    funfact: Platon'un form teorisi, pizza gibi tuhaf fikirleri haklı çıkarmak için kullanılmıştır; mesela her yerde mükemmel ve sonsuz bir pizza formunun olduğu düşüncesi gibi!
+  - title: Mağara Alegorisi
+    explanation: Mağara Alegorisi'nde Platon, tüm yaşamlarını karanlık bir mağarada zincirlenmiş olarak geçiren mahkumların hikayesini anlatır. Bu mahkumlar, önlerindeki duvarda hareket eden gölgelerden başka bir şey göremezler. Bir mahkum kaçmayı başarır ve ilk kez dış dünyayı görür, bu sayede gölgelerin gerçekliğin yalnızca taklitleri olduğunu fark eder.
+    impact: Mağara Alegorisi, aydınlanmanın ve bilginin yolculuğu için klasik bir metafor haline gelmiştir. Tarih boyunca sayısız sanatçı, yazar ve filozofu etkilemiştir.
+    funfact: Mağara Alegorisi, birçok farklı şekilde yeniden yorumlanmıştır. Kimileri onu ruhsal uyanışın bir sembolü olarak görürken, diğerleri teknoloji bağımlılığının tehlikeleri üzerine bir yorum olarak değerlendirir!
 
 legacy:
-  overview: Plato's ideas have had a profound impact on Western philosophy, shaping the way we think about ethics, politics, and metaphysics. His theories continue to be studied and debated by scholars today.
-  followers: Aristotle, St. Augustine, Immanuel Kant, Friedrich Nietzsche, and Martin Heidegger are just a few of the many philosophers who have been influenced by Plato's ideas.
-  pop: Plato's theories have popped up in all sorts of unexpected places, from sci-fi novels like "The Matrix" to TV shows like "Rick and Morty." Even Beyoncé has been known to reference Plato's Symposium in her song lyrics!
+  overview: Platon'un fikirleri Batı felsefesine derin etkiler bırakmış, etik, siyaset ve metafiziği düşünme şeklimizi şekillendirmiştir. Teorileri bugünün bilim insanları tarafından incelenmekte ve tartışılmaktadır.
+  followers: Aristoteles, Aziz Augustinus, Immanuel Kant, Friedrich Nietzsche ve Martin Heidegger gibi birçok filozof, Platon'un fikirlerinden etkilenmiştir.
+  pop: Platon'un teorileri, "Matrix" gibi bilim kurgu romanlarından "Rick ve Morty" gibi TV şovlarına kadar beklenmedik yerlerde ortaya çıkmıştır. Hatta Beyoncé bile şarkı sözlerinde Platon'un "Symposium"unu referans almıştır!
 
 criticism:
-  overview: While Plato's ideas have had a lasting impact on Western philosophy, they have not gone unchallenged. Many critics argue that his theories are too abstract and disconnected from the real world. Others accuse him of promoting a dangerous kind of elitism.
-  critiques: Aristotle, Plato's most famous student, disagreed with his teacher's theory of forms, arguing that the world we experience through our senses is real and knowable. Other critics, like Karl Popper, have accused Plato of advocating for totalitarianism and suppressing individual freedom.
-  response: Plato's response to criticism often took the form of further dialogues and writings, in which he refined and defended his ideas against his opponents. In his later works, he began to emphasize the importance of individual moral character and the role of education in creating a just society.
+  overview: Platon'un fikirleri Batı felsefesinde derin etkiler yaratmış olmasına rağmen, eleştirilere tabi tutulmaktan kaçınmamıştır. Birçok eleştirmen, teorilerinin fazla soyut ve gerçek dünyadan kopuk olduğunu savunur. Diğerleri ise Platon'u tehlikeli bir elitizmi teşvik etmekle suçlar.
+  critiques: Aristoteles, Platon'un en ünlü öğrencisi, öğretmeninin form teorisine karşı çıkarak duyu organlarımız aracılığıyla deneyimlediğimiz dünyanın gerçek ve bilinebilir olduğunu savunmuştur. Diğer eleştirmenler, Karl Popper gibi, Platon'u totalitarizmi savunmakla suçlamış ve bireysel özgürlüğü bastırmakla itham etmişlerdir.
+  response: Platon, eleştirilere karşı genellikle daha fazla diyalog ve yazıyla cevap vermiş, fikirlerini rakiplerine karşı geliştirmiş ve savunmuştur. Son eserlerinde, bireysel ahlaki karakterin önemini vurgulamaya ve adil bir toplumun oluşturulmasında eğitimin rolünü belirtmeye başlamıştır.
 
 resources:
   reading:
-    - "The Republic"
+    - "Devlet"
     - "Symposium"
-    - "Apology"
-    - "Phaedo"
+    - "Savunma"
+    - "Phaidon"
   online:
-    - Stanford Encyclopedia of Philosophy entry on Plato (plato.stanford.edu)
-    - International Association for Plato Studies website (iaps.org)
+    - Platon hakkında Stanford Encyclopedia of Philosophy makalesi (plato.stanford.edu)
+    - International Association for Plato Studies websitesi (iaps.org)
   academia:
-    - Journal of the History of Philosophy
-    - Oxford Studies in Ancient Philosophy
+    - Felsefe Tarihi Dergisi
+    - Antik Felsefe Üzerine Oxford Çalışmaları
 ---

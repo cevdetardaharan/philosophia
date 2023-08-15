@@ -1,6 +1,6 @@
 ---
 name: Plato
-image: '~/assets/plato.webp'
+image: '~/assets/plato.jpg'
 bio: Plato was a Greek philosopher born in Athens around 428 BCE. He was a student of Socrates and one of the most important figures in Western philosophy. Plato's ideas have had a profound impact on politics, ethics, metaphysics, and epistemology.
 
 nutshell:

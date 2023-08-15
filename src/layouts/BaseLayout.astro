@@ -3,11 +3,10 @@ import '../styles/style.css'
 import Header from '../components/Header.astro'
 import Footer from '../components/Footer.astro'
 import { getLangFromUrl } from '../i18n/utils';
-import ViewTransitions from 'astro/components/ViewTransitions.astro';
 
 const lang = getLangFromUrl(Astro.url);
-const canonicalUrl = new URL(Astro.url.pathname, Astro.url);
-const { title, description, image } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.url);
+const { title, description } = Astro.props;
 ---
 
 <html lang={lang}>
@@ -17,23 +16,25 @@ const { title, description, image } = Astro.props;
     <title>{title}</title>
     <meta name="description" content={description} />
     <meta name="color-scheme" content="dark light" />
-    <link rel="canonical" href={canonicalUrl} />
+    <link rel="canonical" href={canonicalURL} />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@cevdetardaharan" />
     <meta name="twitter:creator" content="@cevdetardaharan" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content={Astro.url} />
+    <meta property="og:locale" content={lang} />
     <meta property="og:site_name" content="Philosophia.app" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content={image} />
-    <meta property="og:image:alt" content={title} />
-    <ViewTransitions />
+    <meta property="og:image" content="/philosophia/og.jpg" />
+    <meta property="og:image:type" content=`image/jpeg` />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="600" />
   </head>
   <body>
     <Header />
-    <main transition:animate="slide">
+    <main>
       <slot />
     </main>
   </body>

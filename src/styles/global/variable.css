@@ -23,12 +23,10 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    
-
     --text: hsl(0, 0%, 0%);
-  --background: hsl(80, 60%, 97%);
-  --primary: hsl(169, 59%, 24%);
-  --secondary: hsl(260, 61%, 81%);
-  --accent: hsl(349, 60%, 41%);
+    --background: hsl(80, 60%, 97%);
+    --primary: hsl(169, 59%, 24%);
+    --secondary: hsl(260, 61%, 81%);
+    --accent: hsl(349, 60%, 41%);
   }
 }
